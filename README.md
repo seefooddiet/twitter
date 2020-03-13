@@ -4,7 +4,7 @@ Twitter is a basic twitter app to read your tweets.
 
 Time spent: 4 hours spent in total
 
-<img src="http://g.recordit.co/yYODCCjxpX.gif" width=250><br>
+<img src="http://g.recordit.co/5wnvRZuQqQ.gif" width=250><br>
 
 ## User Stories
 
